@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Recipes1.xslt"?>
+<!DOCTYPE recipes SYSTEM "Recipes1.dtd">
+
+
+
+<recipes>
+
+	<recipe>
+	
+		<name> Recipe: Chicken Tandoori </name>
+		<image> tandori.jpg </image>
+			
+		<author> Author: Sanjeev Kapoor </author>
+			
+		<servings> Servings: 4 to 6 people </servings>
+		<ingredient1>   Ingredients:	
+			1. Greek yogurt		
+			2. Juice of 1 lime 
+			3. 1 clove garlic, minced	
+			4. 1 tbsp. freshly grated ginger		
+			5. 1 tsp. garam masala		
+			6. 1/2 tsp. ground turmeric		
+			7. Kosher salt	
+			8. Pinch of cayenne pepper	
+			9. 2 lb. chicken legs </ingredient1>
+		<procedure0>	Procedure:	
+		 1. In a large bowl, whisk together yogurt, lime juice, garlic, ginger, garam masala, and turmeric and season with salt and cayenne. 
+		 2. Add chicken and toss until fully coated. Let marinate in the fridge at least 2 hours. 
+		 3. When ready to bake, preheat oven to 400º and line a baking sheet with a wire rack. Bake chicken 20 minutes, then flip and bake 20 minutes more. Heat broiler and broil until skin is crispy, 2 minutes. </procedure0>
+		
+		<hint> Tip: Garnish chicken with fresh lemons or limes, cilantro, and red onion slices. Serve with naan (Indian flatbread) </hint>
+		
+				
+				
+	</recipe>
+
+
+	<recipe>
+
+		<name> Recipe: Spicy Beef Chili </name>
+		<image> pinwheel.jpg</image>
+	
+		<author> Author: Al Roker </author>
+			
+		<servings> Servings: 6 to 8 people </servings>
+		<ingredient1>Ingredients 
+			1. 2 tablespoons vegetable oil 
+			2. 2 pounds chuck steak, cut into 1/2-inch dice  
+			3. Kosher salt and freshly ground pepper 
+			4. 1 pound hot Italian sausages, casings removed and meat broken into 1-inch pieces 
+			5. 1 large white onion, chopped 
+			6. 6 garlic cloves, minced 
+			7. 1 tablespoon chili powder and sweet paprika 
+			8. 2 teaspoons ground cumin 
+			9. One 28-ounce can diced tomatoes 
+			10. 1 cup water 
+			11. One 15-ounce can pinto beans, drained 
+			12. One 15-ounce can cannellini beans, drained One 15-ounce can kidney beans, drained Shredded
+				cheddar cheese, chopped scallions, sour cream and chopped cilantro, for serving </ingredient1>
+		
+		<procedure0> Procedure: 
+		 1. In a large enameled cast-iron casserole or soup pot, heat the oil. Season the chuck with salt
+						and pepper. Add half of the chuck and cook over moderately high heat until browned, about 5
+						minutes. Using a slotted spoon, transfer the meat to a plate. Repeat with the remaining chuck.
+						Add the sausage and cook until browned, breaking it up with a spoon, about 4 minutes. Add the
+						sausage to the diced chuck. 
+				
+		 2. Add the chopped onion to the casserole and cook over moderate heat until tender, about 4
+						minutes. Add the garlic and cook for 2 minutes. Stir in the chili powder, pap-rika, cumin and the
+						chuck, sausage and any accumulated juices. Cook, stirring until fragrant, about 1 minute. Add the
+						tomatoes and their juices and the water. Cover and sim-mer over moderately low heat for 1 hour. 
+						 
+				
+		 3. Stir in the beans and simmer uncovered until thickened, about 15 minutes. Season with salt.
+						Serve the chili in deep bowls, passing the cheese, scallions, sour cream and cilantro on the
+						side. </procedure0>
+
+		<hint> Tips: Serve immediately with jalapeño Monterey Jack cheese and cornbread, if desired </hint>
+
+
+	</recipe>
+
+	<recipe>
+
+		<name> Recipe: Prosciutto mozzarella pinwheels </name>
+		<image> chili.jpg </image>
+		
+
+		<author> Author:Giada De Laurentiis </author>
+		<servings> Servings: 6 to 8 people </servings>
+
+		<ingredient1> Ingredients: 
+		 1. Flour, for dusting	
+		 2. 1 pound purchased pizza dough	
+		 3. 2 cups shredded mozzarella cheese	
+		 4. 7 ounces prosciutto, thinly sliced	
+		 5. 1 cup coarsely chopped baby spinach (about 1 1/2 ounces)	
+		6. 1 tablespoon olive oil	
+		 7. Kosher salt and freshly ground black pepper	</ingredient1>
+
+		<procedure0> Procedure: 
+		 1. Preheat the oven to 425 degrees F and position a rack in the lower 1/3 of the oven. Line a baking sheet with parchment paper.  
+		 2. On a lightly floured work surface, roll out the pizza dough into a 12- to 14-inch circle, about 1/4-inch thick. Sprinkle 1/2 of the mozzarella over the dough. Arrange the prosciutto over the cheese in a single layer. Sprinkle with the chopped spinach, then top with the remaining cheese.	
+		 3. Roll the dough into a thin cylinder, gently tucking in the ends. Brush the entire roll with the olive oil and season with the salt and pepper. Place the dough, seam-side down, on the baking sheet and bake for 25 minutes until the top is golden brown.
+		 4. Cool the roll for 3 for 4 minutes, then use a serrated knife to cut it into 3/4-inch slices.	</procedure0>
+
+		<hint> Tips: Add some chopped sun-dried tomatoes and a bit of mozzarella for better tasting. </hint>
+
+	</recipe>
+		
+	
+</recipes>

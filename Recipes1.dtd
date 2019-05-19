@@ -1,0 +1,38 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT recipes (recipe)+>
+<!ATTLIST recipes
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT recipe (name,image,author,servings,ingredient1,procedure0,
+                  hint?)>
+<!ATTLIST recipe
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT image (#PCDATA)>
+<!ATTLIST image
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT author (#PCDATA)>
+<!ATTLIST author
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT servings (#PCDATA)>
+<!ATTLIST servings
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ingredient1 (#PCDATA)>
+<!ATTLIST ingredient1
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT procedure0 (#PCDATA)>
+<!ATTLIST procedure0
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT hint (#PCDATA)>
+<!ATTLIST hint
+  xmlns CDATA #FIXED ''>

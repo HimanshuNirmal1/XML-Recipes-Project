@@ -1,0 +1,66 @@
+﻿recipes
+{
+		width: 800px;
+		padding: 250pt;
+		margin: 50px auto;
+		text-align: left;
+		display: block;
+		font-family: Arial;
+		font-size: large;
+		background-color: pink;
+}
+
+
+name
+{
+		color: black;
+		font-weight: bold;
+		font-size: 140%;
+		display: block;
+
+}
+
+author
+{
+		color: red;
+		font-weight: bold;
+		font-size: 90%;
+		display: block;
+}
+
+
+
+ingredient1
+{
+		color: blue;
+		font-weight: bold;
+		font-size: 90%;
+		display: block;
+
+}
+
+
+procedure1
+{
+		color: purple;
+		font-weight: bold;
+		font-size: 90%;
+		display: block;
+}
+
+procedure0
+{
+		color: purple;
+		font-weight: bold;
+		font-size: 90%;
+		display: block;
+}
+
+
+hint
+{
+		color: orange;
+		font-weight: bold;
+		font-size: 90%;
+		display: block;
+}
